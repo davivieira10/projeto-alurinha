@@ -1,5 +1,5 @@
 ## <h1>Projeto Alurinha</h1>
-<h2>Projeto desenvolvido no curso de Flexbox do Programa ONE, uma parceria da Oracle junto com a Alura para treinar as ferramentas de HTML e CSS.</h2>
+<h2>Projeto desenvolvido no curso de Flexbox do Programa ONE, uma parceria da Oracle junto com a Alura para treinar as ferramentas de HTML e CSS, exercitando também a parte responsiva do site.</h2>
 
 <img align="center" alt="Projeto Alurinha" src="https://i.postimg.cc/bNN5D6Hh/projeto-alurinha.png">
 
