@@ -3,7 +3,7 @@
 
 <img align="center" alt="Projeto Alurinha" src="https://i.postimg.cc/bNN5D6Hh/projeto-alurinha.png">
 
-[🔗Clique aqui para acessar o projeto]()
+[🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/projeto-alurinha/)
 
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
